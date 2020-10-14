@@ -10,6 +10,6 @@ A simple application to calculate your age in minutes. Learned from the online c
 ## Screenshot
 
 App Main Activity
-![main activity](https://github.com/ryecoder/AgeInMinutes/blob/main/app_sc_1.png)
+![main activity](https://github.com/ryecoder/AgeInMinutes/blob/main/app_sc_1.png?raw=true)
 
  
