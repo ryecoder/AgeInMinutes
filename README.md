@@ -7,4 +7,9 @@ A simple application to calculate your age in minutes. Learned from the online c
 1. Kotlin language basics & fundamentals also basics in Android
 2. Date picker dialog box of Android
 
+## Screenshot
+
+App Main Activity
+![main activity](https://github.com/ryecoder/AgeInMinutes/blob/main/app_sc_1.png)
+
  
